@@ -1,6 +1,14 @@
 ```
 #今日心得 9/2
 ```
+今天練習了寫計算公式
+```
+a = input("please input a = ")
+b = input("please input b = ")
+print (a+b)
+```
+但是這樣只會出現字串，所以須加 int
+
 
 int 整數型態
 
