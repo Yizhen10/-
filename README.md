@@ -22,3 +22,5 @@ float 小數型態
                                                
                                                就只會出現  55
 ```
+
+https://colab.research.google.com/drive/19lI33Tf-HaBdsuAjxy8jtJVreoxXfBOd
